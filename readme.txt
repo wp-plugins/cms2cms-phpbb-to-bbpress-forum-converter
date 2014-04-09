@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- With phpBB to bbPress Convertor you’ll have your phpBB content converted to bbPress easily and swiftly with no hassle and no coding skills needed. It’s simple even for beginners.
+ With phpBB to bbPress Convertor you’ll have your phpBB content converted to bbPress easily and swiftly with no hassle and no coding skills needed.
 
 == Description ==
 
