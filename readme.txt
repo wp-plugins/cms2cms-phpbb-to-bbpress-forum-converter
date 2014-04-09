@@ -27,6 +27,16 @@ Note. This plugin installs connection bridge on WordPress website with bbPress, 
 * Install WordPress and make sure that both phpBB and WordPress websites are available online.
 * Have phpBB website FTP access details at hand (host, username, password).
 
+= Features of Automated Migration with CMS2CMS =
+
+* It takes less than 15 minutes for the conversion. 
+* There is no need to have any coding skills as this tool has an intuitive wizard interface and automates the whole process of website migration. 
+* It is possible to try a free Demo Migration and convert up to 100 pages with all the related items for free to the test site and see the service in progress. 
+* 24/7 live support will answer all your questions and provide you with the needed help during and after the switch. 
+
+For more details on how to convert b2evolution to WordPress, see here: http://www.cms2cms.com/supported-cms/phpbb-to-bb-press-migration/
+
+
 
 == Installation ==
 
