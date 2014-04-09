@@ -1,4 +1,4 @@
-﻿=== CMS2CMS: phpBB to bbPress Forum Converter  ===
+﻿=== CMS2CMS: phpBB to bbPress Forum Convertor  ===
 Contributors: cms2cms
 Tags: phpBB to bbPress, phpBB to bbPress mirgation, convert phpBB to bbPress, migrate phpBB to bbPress, phpBB to bbPress convertor
 Requires at least: 3.0.0
