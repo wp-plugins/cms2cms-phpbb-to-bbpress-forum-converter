@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('PHPBB', 'cms2cms-mirgation');
+        return $this->__('PhpBb', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'PHPBB';
+        return 'PhpBb';
     }
 
     public function getPluginTargetName()

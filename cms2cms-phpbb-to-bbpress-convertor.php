@@ -1,8 +1,8 @@
 <?php
 /*
-    Plugin Name: CMS2CMS PHPBB to WordPress migration
+    Plugin Name: CMS2CMS PhpBb to WordPress migration
     Plugin URI: http://www.cms2cms.com
-    Description: Migrate your website content from PHPBB to WordPress easily and automatedly in just a few simple steps.
+    Description: Migrate your website content from PhpBb to WordPress easily and automatedly in just a few simple steps.
     Version: 1.0.1
     Author: MagneticOne
     Author URI: http://magneticone.com

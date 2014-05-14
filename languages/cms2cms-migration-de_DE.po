@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: CMS2CMS PHPBB to WordPress\n"
+"Project-Id-Version: CMS2CMS PhpBb to WordPress\n"
 "POT-Creation-Date: 2013-06-21 12:38+0200\n"
 "PO-Revision-Date: 2013-07-08 12:28+0200\n"
 "Last-Translator: cms2cms <dev@cms2cms.com>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../cms2cms-wordpress-to-phpbb.php:35
-msgid "PHPBB"
+msgid "PhpBb"
 msgstr ""
 
 #: ../cms2cms-wordpress-to-phpbb.php:41
@@ -141,12 +141,12 @@ msgstr "Migration starten"
 #: ../ui.php:227
 msgid ""
 "CMS2CMS.com is the one-of-its kind tool for fast, accurate and trouble-free "
-"website migration from PHPBB to WordPress. Just a few mouse clicks - and "
-"your PHPBB articles, categories, images, users, comments, internal links "
+"website migration from PhpBb to WordPress. Just a few mouse clicks - and "
+"your PhpBb articles, categories, images, users, comments, internal links "
 "etc are safely delivered to the new WordPress website."
 msgstr ""
 "CMS2CMS.com ist das Werkzeug für schnelle, präzise und problemlose Migration "
-"von PHPBB auf WordPress. Nur ein paar Mausklicks - und Ihre PHPBB Artikel, "
+"von PhpBb auf WordPress. Nur ein paar Mausklicks - und Ihre PhpBb Artikel, "
 "Kategorien, Bilder, Benutzer, Kommentare, interne Links usw. auf die neue "
 "WordPress-Website migriert werden."
 
