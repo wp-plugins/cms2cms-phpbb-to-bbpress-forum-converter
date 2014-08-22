@@ -24,6 +24,9 @@ CMS2CMS is an automated tool for transferring content from phpBB to bbPress. You
 * attachments
 * images (as an option)
 
+= Video =
+[youtube https://www.youtube.com/watch?v=ONdgnEgD7UU]
+
 Note. This plugin installs connection bridge on WordPress website with bbPress, which is necessary for data exchange between bbPress and phpBB. 
 
 =  Steps to Take before Migration: = 
@@ -37,7 +40,6 @@ Note. This plugin installs connection bridge on WordPress website with bbPress, 
 * 24/7 live support will answer all your questions and provide you with the needed help during and after the switch. 
 
 For more details on how to convert phpBBto bbPress, see here: http://www.cms2cms.com/supported-cms/phpbb-to-bb-press-migration/
-
 
 == Installation ==
 
