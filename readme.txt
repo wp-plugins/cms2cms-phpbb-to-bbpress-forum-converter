@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: phpBB to bbPress, phpBB to bbPress migration, convert phpBB to bbPress, migrate phpBB to bbPress, phpBB to bbPress convertor, phpBB, bbPress, bbPress migration
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,7 +39,7 @@ Note. This plugin installs connection bridge on WordPress website with bbPress, 
 * There is no need to have any coding skills as this tool has an intuitive wizard interface and automates the whole process of website migration. 
 * 24/7 live support will answer all your questions and provide you with the needed help during and after the switch. 
 
-For more details on how to convert phpBBto bbPress, see here: http://www.cms2cms.com/supported-cms/phpbb-to-bb-press-migration/
+For more details on how to convert phpBBto bbPress, see here: http://www.cms2cms.com/supported-cms/phpbb-to-bb-press-migration/?utm_source=phpBB&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
