@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 CMS2CMS is an automated tool for transferring content from phpBB to bbPress. You’ll have your phpBB content converted to bbPress easily and swiftly with no hassle and no coding skills needed. It’s simple even for beginners.
 
 * *There is Free Demo available (migration of limited number of posts, threads, etc.).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = What is Moved? = 
 * forum posts/replies
