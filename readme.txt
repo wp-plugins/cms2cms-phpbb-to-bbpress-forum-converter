@@ -39,10 +39,10 @@ Note. This plugin installs connection bridge on WordPress website with bbPress, 
 * There is no need to have any coding skills as this tool has an intuitive wizard interface and automates the whole process of website migration. 
 * 24/7 live support will answer all your questions and provide you with the needed help during and after the switch. 
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 For more details on how to convert phpBBto bbPress, see here: http://www.cms2cms.com/supported-cms/phpbb-to-bb-press-migration/?utm_source=phpBB&utm_medium=Link&utm_campaign=WordPress_plugins
 
